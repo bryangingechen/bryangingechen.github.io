@@ -1,0 +1,3 @@
+[submodule "lean/lean-web-editor"]
+	path = lean/lean-web-editor
+	url = https://github.com/bryangingechen/lean-web-editor-dist
